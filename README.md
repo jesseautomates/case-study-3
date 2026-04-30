@@ -60,6 +60,8 @@ As a result:
 
 ## Solution
 
+This system simulates how a support operations team would analyze ticket data at scale—without manual effort.
+
 This workflow introduces a **Root Cause Analysis Engine** that:
 
 - Analyzes support ticket data at scale  
@@ -189,7 +191,7 @@ These reductions come from eliminating repeat issues—not improving handling ef
 
 This analysis identifies the highest-impact opportunities to reduce ticket volume.
 
-From here, the next step would be:
+From here, the natural next step is to:
 
 - Implement targeted fixes for top drivers
 - Measure reduction in ticket volume
@@ -214,7 +216,7 @@ But:
 
 ---
 
-## Tech Stack
+## How It's Built
 
 - **n8n** (workflow orchestration)  
 - **OpenAI API** (pattern detection + reasoning)  
@@ -254,3 +256,8 @@ Built by Jesse Snow
 Focused on **Support Operations, AI Automation, and Scalable Systems Design**
 
 ---
+
+## Notes
+
+- This case study uses a sample dataset to simulate real-world support patterns  
+- The workflow is designed to mirror how production systems would operate at scale  
