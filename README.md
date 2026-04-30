@@ -25,6 +25,15 @@ This case study demonstrates how to:
 
 ---
 
+## Who This Is For
+
+This system is designed for:
+
+- B2B SaaS companies with growing support volume
+- Teams handling 500–10,000+ tickets per month
+- Organizations without clear RCA visibility
+- Support leaders under pressure to reduce cost without hiring
+
 ## Architecture
 
 This system is built as a **structured RCA pipeline**:
@@ -177,21 +186,17 @@ If the highest-volume drivers are addressed:
 
 ---
 
-## What Happens Next
+## What Happens After This
 
-This analysis highlights exactly where to focus:
+This analysis identifies the highest-impact opportunities to reduce ticket volume.
 
-- Authentication errors (highest-volume driver)  
-- Performance issues impacting usability  
-- Connectivity issues affecting reliability  
+From here, the next step would be:
 
-These represent clear opportunities to reduce ticket volume through:
+- Implement targeted fixes for top drivers
+- Measure reduction in ticket volume
+- Validate impact over time
 
-- Product improvements  
-- Workflow changes  
-- Targeted automation  
-
-In the next phase, these drivers can be addressed and measured to validate impact.
+This is where Phase 2 begins.
 
 ---
 
