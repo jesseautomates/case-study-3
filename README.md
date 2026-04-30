@@ -1,23 +1,18 @@
 # Case Study: Identifying What’s Driving Support Ticket Volume (Phase 1)
 
-A Root Cause Analysis (RCA) system built with **n8n** and **OpenAI** that transforms support ticket data into **clear insight on what’s driving ticket volume—and what to fix next**.
+A real-world style RCA system designed to reduce support demand by identifying and eliminating root causes behind incoming tickets.
 
 ---
 
 ## Overview
 
-Support teams don’t just need to resolve tickets — they need to understand:
+Support teams don’t just need to resolve tickets—they need to understand:
 
 - What’s driving ticket volume  
-- Why issues are happening repeatedly  
+- Why issues repeat  
 - Where to focus to reduce demand  
 
-In most organizations:
-
-- RCA is manual or inconsistent  
-- Teams optimize handling, not elimination  
-- Insights are disconnected from action  
-- Leadership lacks clear direction on what to fix  
+In most organizations, RCA is manual, inconsistent, and disconnected from action.
 
 This case study demonstrates how to:
 
@@ -169,9 +164,11 @@ This report includes:
 
 A small number of repeat issues drive a disproportionate share of support demand.
 
-> In this dataset, the top 3 drivers account for ~25% of total ticket volume.
+> The top 3 drivers account for ~25% of total ticket volume.
 
-This represents a clear opportunity to reduce demand at the source.
+This creates a clear opportunity:
+
+Fix a few problems → eliminate a meaningful percentage of tickets.
 
 ---
 
@@ -182,7 +179,9 @@ If the highest-volume drivers are addressed:
 - ~20–30% reduction in ticket volume  
 - Significant decrease in repetitive support work  
 - Lower support costs without additional hiring  
-- Improved customer experience  
+- Improved customer experience
+
+These reductions come from eliminating repeat issues—not improving handling efficiency.
 
 ---
 
